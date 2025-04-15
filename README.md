@@ -16,6 +16,8 @@ This repository contains various implementations of AAMP-Chats using different p
 ## Programming Languages and How to Start Them
 
 To start the project, you usually need to run both a **front-end** and **back-end**, unless the framework supports both (like **Next.js**).  
+You also will need to run the dockerfile present in the root directory to run the mongodb database and the websocket for direct updates for chats etc.
+
 The table below lists each version of the project, its role (front-end, back-end, or both), and the command to start it in development mode. This helps you know what parts are needed to get each version running.
 
 | Programming Language     | Framework (if applies) | Type  | Command to Run in Dev Mode           |
